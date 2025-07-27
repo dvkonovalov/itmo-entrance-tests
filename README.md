@@ -1,2 +1,2 @@
 # itmo-entrance-tests
-Чат бот для вступительных ИТМО
+Storage for entrance tests ITMO
